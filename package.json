@@ -1,0 +1,11 @@
+{
+  "name": "verifyai-netlify-prototype",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.12" },
+  "scripts": { "build": "node -e \"console.log('VerifyAI Netlify build ready')\"" },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.4",
+    "@netlify/database": "^2.0.1"
+  }
+}
