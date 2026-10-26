@@ -1,9 +1,0 @@
-{
-  "name": "verify-ai-sih26261",
-  "version": "1.0.0",
-  "private": true,
-  "description": "VERIFY-AI synthetic document verification demo for Netlify",
-  "scripts": {
-    "dev": "netlify dev"
-  }
-}
