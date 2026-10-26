@@ -1,7 +1,0 @@
-[build]
-  base = "frontend"
-  command = "node build.js"
-  publish = "dist"
-
-[build.environment]
-  NODE_VERSION = "22"
