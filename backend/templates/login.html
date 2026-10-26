@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Secure access{% endblock %}
+{% block auth_content %}
+<div class="login-layout">
+  <section class="login-visual">
+    <a class="brand brand-light" href="{{ url_for('login') }}"><span class="brand-mark"><i class="bi bi-shield-lock-fill"></i></span><span><b>VERIFY<span>AI</span></b><small>COMPLIANCE INTELLIGENCE</small></span></a>
+    <div class="visual-copy"><div class="eyebrow"><span class="live-dot"></span> DOCUMENT TRUST, REIMAGINED</div><h1>Confidence in<br>every <em>submission.</em></h1><p>One intelligent workspace to validate documents, explain risk, and move regulatory reviews forward—with humans in control.</p><div class="visual-stats"><div><b>01</b><span>Extract</span></div><div><b>02</b><span>Validate</span></div><div><b>03</b><span>Review</span></div></div></div>
+    <div class="orbit-art"><div class="orbit orbit-a"></div><div class="orbit orbit-b"></div><div class="orbit orbit-c"></div><div class="orbit-core"><i class="bi bi-shield-check"></i><span>TRUST<br>ENGINE</span></div><span class="orbit-tag tag-a">OCR / EXTRACT</span><span class="orbit-tag tag-b">RISK ENGINE</span><span class="orbit-tag tag-c">AUDIT TRAIL</span></div>
+    <div class="visual-foot"><span>BUILT FOR RESPONSIBLE AUTOMATION</span><span>SIH · 2026</span></div>
+  </section>
+  <section class="login-panel">
+    <div class="login-panel-inner"><div class="login-kicker">SECURE IDENTITY GATE <span class="tiny-line"></span></div><h2>Welcome back<span class="accent">.</span></h2><p class="muted">Sign in to your protected review environment.</p>
+      <form method="post" class="login-form" autocomplete="on">
+        <input type="hidden" name="_csrf_token" value="{{ csrf_token() }}">
+        <label for="username">USERNAME</label><div class="input-wrap"><i class="bi bi-person"></i><input id="username" name="username" placeholder="Enter your username" required autocomplete="username" maxlength="80"></div>
+        <label for="password">PASSWORD</label><div class="input-wrap"><i class="bi bi-key"></i><input id="password" name="password" type="password" placeholder="Enter your password" required autocomplete="current-password"><button type="button" class="show-password" aria-label="Show password"><i class="bi bi-eye"></i></button></div>
+        <div class="login-options"><span><i class="bi bi-lock-fill"></i> Protected session</span><span>30-minute idle expiry</span></div>
+        <button class="btn btn-primary btn-full" type="submit">Authenticate <i class="bi bi-arrow-up-right"></i></button>
+      </form>
+      <div class="demo-access"><div class="demo-heading"><i class="bi bi-person-badge"></i><span>JUDGE DEMO ACCESS</span><span class="demo-label">SAMPLE ACCOUNTS</span></div><p>Choose a role to autofill its demo username. Passwords are listed in the included README.</p><div class="role-pills"><button type="button" data-demo-user="demo.admin">Admin</button><button type="button" data-demo-user="demo.officer">Officer</button><button type="button" data-demo-user="demo.applicant">Applicant</button></div></div>
+      <div class="login-assurance"><i class="bi bi-shield-check"></i><span><b>Security-first by design</b><small>Server-side access checks · Password hashing · CSRF protection</small></span></div>
+    </div><div class="login-bottom"><span>VERIFYAI / ACCESS NODE 01</span><span>FICTIONAL DEMO DATA</span></div>
+  </section>
+</div>
+{% endblock %}
