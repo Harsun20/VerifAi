@@ -1,0 +1,12 @@
+{
+  "name": "verify-ai-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VERIFY-AI SIH26261 prototype: static frontend + Netlify Functions backend, synthetic data",
+  "scripts": {
+    "build": "echo static site, no build step",
+    "dev": "netlify dev",
+    "data": "python tools/generate_data.py"
+  },
+  "engines": { "node": ">=18" }
+}
