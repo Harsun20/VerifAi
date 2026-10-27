@@ -1,0 +1,2952 @@
+[
+ {
+  "id": "APP-2601",
+  "institution": "Lakeview Institute of Technology",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-09-21",
+  "proposedIntake": 360,
+  "trust": "Lakeview Education Trust",
+  "owner": "Neha Reddy",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Lakeview Education Trust",
+     "registration_no": "TR/TE/8226/2023",
+     "registration_date": "2023-04-15",
+     "pan": "HAVTC2814K"
+    },
+    "meta": {
+     "created": "2023-04-15",
+     "modified": "2023-04-15",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Lakeview Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "873/8C",
+     "area_sqm": 10275,
+     "issue_date": "2024-03-28",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2024-03-28",
+     "modified": "2024-03-28",
+     "software": "CamScanner"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Lakeview Education Trust",
+     "approved_built_up_sqm": 3425,
+     "approval_date": "2025-01-11",
+     "authority": "Hyderabad Development Authority"
+    },
+    "meta": {
+     "created": "2025-01-11",
+     "modified": "2025-01-11",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Lakeview Education Trust",
+     "built_up_sqm": 3425,
+     "issue_date": "2026-02-20",
+     "valid_until": "2027-02-20",
+     "authority": "State Fire Services Dept."
+    },
+    "meta": {
+     "created": "2026-02-20",
+     "modified": "2026-02-20",
+     "software": "CamScanner"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Lakeview Education Trust",
+     "declared_intake": 360,
+     "date": "2026-08-12"
+    },
+    "meta": {
+     "created": "2026-08-12",
+     "modified": "2026-08-12",
+     "software": "Epson Scan 2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 24,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-09-11",
+     "modified": "2026-09-11",
+     "software": "Epson Scan 2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Lakeview Education Trust",
+     "fd_lakh": 138.3,
+     "as_of": "2026-09-05"
+    },
+    "meta": {
+     "created": "2026-09-05",
+     "modified": "2026-09-05",
+     "software": "Epson Scan 2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2602",
+  "institution": "Northbridge Polytechnic College",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-10-11",
+  "proposedIntake": 120,
+  "trust": "Northbridge Education Trust",
+  "owner": "Neha Patel",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Northbridge Education Trust",
+     "registration_no": "TR/MA/8554/2021",
+     "registration_date": "2021-03-27",
+     "pan": "PCNTU9166D"
+    },
+    "meta": {
+     "created": "2021-03-27",
+     "modified": "2021-03-27",
+     "software": "CamScanner"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Northbridge Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "36/6B",
+     "area_sqm": 4524,
+     "issue_date": "2023-02-15",
+     "lease_years": 33
+    },
+    "meta": {
+     "created": "2023-02-15",
+     "modified": "2023-02-15",
+     "software": "Epson Scan 2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Northbridge Education Trust",
+     "approved_built_up_sqm": 1508,
+     "approval_date": "2023-08-31",
+     "authority": "Pune Development Authority"
+    },
+    "meta": {
+     "created": "2023-08-31",
+     "modified": "2023-08-31",
+     "software": "CamScanner"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Northbridge Education Trust",
+     "built_up_sqm": 1508,
+     "issue_date": "2026-05-30",
+     "valid_until": "2026-08-28",
+     "authority": "Municipal Fire Wing"
+    },
+    "meta": {
+     "created": "2026-05-30",
+     "modified": "2026-05-30",
+     "software": "CamScanner"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Northbridge Education Trust",
+     "declared_intake": 120,
+     "date": "2026-09-18"
+    },
+    "meta": {
+     "created": "2026-09-18",
+     "modified": "2026-09-18",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 7,
+     "proposed_intake": 120
+    },
+    "meta": {
+     "created": "2026-10-01",
+     "modified": "2026-10-01",
+     "software": "Adobe Scan"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Northbridge Education Trust",
+     "fd_lakh": 120.1,
+     "as_of": "2026-09-24"
+    },
+    "meta": {
+     "created": "2026-09-24",
+     "modified": "2026-09-24",
+     "software": "Scanner Pro 4.2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2603",
+  "institution": "Silverline Polytechnic College",
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-10-13",
+  "proposedIntake": 120,
+  "trust": "Silverline Education Trust",
+  "owner": "Lakshmi Nair",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Silverline Education Trust",
+     "registration_no": "TR/RA/7587/2022",
+     "registration_date": "2022-12-07",
+     "pan": "XKTTW9223Y"
+    },
+    "meta": {
+     "created": "2022-12-07",
+     "modified": "2022-12-07",
+     "software": "CamScanner"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Silverline Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "491/9B",
+     "area_sqm": 4797,
+     "issue_date": "2023-08-29",
+     "lease_years": 33
+    },
+    "meta": {
+     "created": "2023-08-29",
+     "modified": "2023-08-29",
+     "software": "Adobe Scan"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Silverline Education Trust",
+     "approved_built_up_sqm": 1599,
+     "approval_date": "2024-02-28",
+     "authority": "Jaipur Development Authority"
+    },
+    "meta": {
+     "created": "2024-02-28",
+     "modified": "2024-02-28",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": false,
+    "source": "verified",
+    "fields": {},
+    "meta": null
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Silverline Education Trust",
+     "declared_intake": 120,
+     "date": "2026-09-24"
+    },
+    "meta": {
+     "created": "2026-09-24",
+     "modified": "2026-09-24",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 11,
+     "proposed_intake": 120
+    },
+    "meta": {
+     "created": "2026-10-03",
+     "modified": "2026-10-03",
+     "software": "Adobe Scan"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Silverline Education Trust",
+     "fd_lakh": 110.7,
+     "as_of": "2026-10-07"
+    },
+    "meta": {
+     "created": "2026-10-07",
+     "modified": "2026-10-07",
+     "software": "CamScanner"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2604",
+  "institution": "Greenfield Institute of Management",
+  "city": "Lucknow",
+  "state": "Uttar Pradesh",
+  "programType": "New Institution",
+  "submittedOn": "2026-09-24",
+  "proposedIntake": 180,
+  "trust": "Greenfield Education Trust",
+  "owner": "Anil Patel",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Greenfield Education Trust",
+     "registration_no": "TR/UT/8183/2022",
+     "registration_date": "2024-02-04",
+     "pan": "YYSTJ8420F"
+    },
+    "meta": {
+     "created": "2022-04-13",
+     "modified": "2022-04-13",
+     "software": "CamScanner"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Greenfield Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "335/8A",
+     "area_sqm": 5898,
+     "issue_date": "2023-12-21",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2023-12-21",
+     "modified": "2023-12-21",
+     "software": "Epson Scan 2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Greenfield Education Trust",
+     "approved_built_up_sqm": 1966,
+     "approval_date": "2024-06-17",
+     "authority": "Lucknow Development Authority"
+    },
+    "meta": {
+     "created": "2024-06-17",
+     "modified": "2024-06-17",
+     "software": "CamScanner"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Greenfield Educational Society",
+     "built_up_sqm": 1966,
+     "issue_date": "2026-03-18",
+     "valid_until": "2027-03-18",
+     "authority": "District Fire Authority"
+    },
+    "meta": {
+     "created": "2026-03-18",
+     "modified": "2026-03-18",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Greenfield Welfare Foundation",
+     "declared_intake": 180,
+     "date": "2026-08-19"
+    },
+    "meta": {
+     "created": "2026-08-19",
+     "modified": "2026-08-19",
+     "software": "Adobe Scan"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 13,
+     "proposed_intake": 180
+    },
+    "meta": {
+     "created": "2026-09-14",
+     "modified": "2026-09-14",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Greenfield Education Trust",
+     "fd_lakh": 67.4,
+     "as_of": "2026-09-08"
+    },
+    "meta": {
+     "created": "2026-09-08",
+     "modified": "2026-09-08",
+     "software": "Scanner Pro 4.2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2605",
+  "institution": "Riverstone Institute of Technology",
+  "city": "Coimbatore",
+  "state": "Tamil Nadu",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-09-29",
+  "proposedIntake": 360,
+  "trust": "Riverstone Education Trust",
+  "owner": "Fatima Iyer",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Riverstone Education Trust",
+     "registration_no": "TR/TA/9060/2022",
+     "registration_date": "2022-12-21",
+     "pan": "YZETT4652R"
+    },
+    "meta": {
+     "created": "2022-12-21",
+     "modified": "2022-12-21",
+     "software": "Adobe Scan"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Riverstone Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "16/6C",
+     "area_sqm": 10215,
+     "issue_date": "2023-11-09",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2023-11-09",
+     "modified": "2023-11-09",
+     "software": "CamScanner"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Riverstone Education Trust",
+     "approved_built_up_sqm": 3405,
+     "approval_date": "2023-08-11",
+     "authority": "Coimbatore Development Authority"
+    },
+    "meta": {
+     "created": "2024-03-11",
+     "modified": "2024-03-11",
+     "software": "Adobe Scan"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Riverstone Education Trust",
+     "built_up_sqm": 2655,
+     "issue_date": "2026-07-01",
+     "valid_until": "2027-07-01",
+     "authority": "State Fire Services Dept."
+    },
+    "meta": {
+     "created": "2026-07-01",
+     "modified": "2026-07-01",
+     "software": "Epson Scan 2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Riverstone Education Trust",
+     "declared_intake": 360,
+     "date": "2026-09-22"
+    },
+    "meta": {
+     "created": "2026-09-22",
+     "modified": "2026-09-22",
+     "software": "CamScanner"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 20,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-09-19",
+     "modified": "2026-09-19",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Riverstone Education Trust",
+     "fd_lakh": 123.7,
+     "as_of": "2026-09-09"
+    },
+    "meta": {
+     "created": "2026-09-09",
+     "modified": "2026-09-09",
+     "software": "Adobe Scan"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2606",
+  "institution": "Eastwind Institute of Technology",
+  "city": "Bhopal",
+  "state": "Madhya Pradesh",
+  "programType": "New Institution",
+  "submittedOn": "2026-09-07",
+  "proposedIntake": 300,
+  "trust": "Eastwind Education Trust",
+  "owner": "Lakshmi Das",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Eastwind Education Trust",
+     "registration_no": "TR/MA/6341/2021",
+     "registration_date": "2021-10-09",
+     "pan": "DRQTU3797E"
+    },
+    "meta": {
+     "created": "2021-10-09",
+     "modified": "2021-10-09",
+     "software": "Adobe Scan"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Eastwind Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "710/5B",
+     "area_sqm": 8565,
+     "issue_date": "2023-01-27",
+     "lease_years": 99
+    },
+    "meta": {
+     "created": "2023-01-27",
+     "modified": "2023-01-27",
+     "software": "Epson Scan 2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Eastwind Education Trust",
+     "approved_built_up_sqm": 2855,
+     "approval_date": "2023-09-09",
+     "authority": "Bhopal Development Authority"
+    },
+    "meta": {
+     "created": "2023-09-09",
+     "modified": "2023-09-09",
+     "software": "CamScanner"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Eastwind Education Trust",
+     "built_up_sqm": 2855,
+     "issue_date": "2026-04-10",
+     "valid_until": "2027-04-10",
+     "authority": "Municipal Fire Wing"
+    },
+    "meta": {
+     "created": "2026-04-10",
+     "modified": "2026-09-05",
+     "software": "Online PDF Editor"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Eastwind Education Trust",
+     "declared_intake": 360,
+     "date": "2026-09-01"
+    },
+    "meta": {
+     "created": "2026-09-01",
+     "modified": "2026-09-01",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 19,
+     "proposed_intake": 300
+    },
+    "meta": {
+     "created": "2026-08-28",
+     "modified": "2026-08-28",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Eastwind Education Trust",
+     "fd_lakh": 57.9,
+     "as_of": "2026-09-04"
+    },
+    "meta": {
+     "created": "2026-09-04",
+     "modified": "2026-09-04",
+     "software": "Adobe Scan"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2607",
+  "institution": "Hillcrest Polytechnic College",
+  "city": "Indore",
+  "state": "Madhya Pradesh",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-09-04",
+  "proposedIntake": 300,
+  "trust": "Hillcrest Education Trust",
+  "owner": "Vikram Iyer",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Hillcrest Education Trust",
+     "registration_no": "TR/MA/5469/2023",
+     "registration_date": "2023-04-18",
+     "pan": "PTPTC7278K"
+    },
+    "meta": {
+     "created": "2023-04-18",
+     "modified": "2023-04-18",
+     "software": "Adobe Scan"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Hillcrest Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "175/3B",
+     "area_sqm": 8919,
+     "issue_date": "2023-09-05",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2023-09-05",
+     "modified": "2023-09-05",
+     "software": "Epson Scan 2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Hillcrest Education Trust",
+     "approved_built_up_sqm": 2973,
+     "approval_date": "2023-12-07",
+     "authority": "Indore Development Authority"
+    },
+    "meta": {
+     "created": "2023-12-07",
+     "modified": "2023-12-07",
+     "software": "CamScanner"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Hillcrest Education Trust",
+     "built_up_sqm": 2973,
+     "issue_date": "2026-09-16",
+     "valid_until": "2027-09-16",
+     "authority": "District Fire Authority"
+    },
+    "meta": {
+     "created": "2026-01-22",
+     "modified": "2026-01-22",
+     "software": "CamScanner"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Hillcrest Education Trust",
+     "declared_intake": 300,
+     "date": "2026-07-28"
+    },
+    "meta": {
+     "created": "2026-07-28",
+     "modified": "2026-07-28",
+     "software": "Epson Scan 2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 21,
+     "proposed_intake": 300
+    },
+    "meta": {
+     "created": "2026-08-25",
+     "modified": "2026-08-25",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Hillcrest Education Trust",
+     "fd_lakh": 70.0,
+     "as_of": "2026-08-26"
+    },
+    "meta": {
+     "created": "2026-08-26",
+     "modified": "2026-08-26",
+     "software": "CamScanner"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2608",
+  "institution": "Sunrise Valley Institute of Technology",
+  "city": "Nagpur",
+  "state": "Maharashtra",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-10-04",
+  "proposedIntake": 360,
+  "trust": "Sunrise Valley Education Trust",
+  "owner": "Lakshmi Nair",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Sunrise Valley Education Trust",
+     "registration_no": "TR/MA/3989/2023",
+     "registration_date": "2023-07-21",
+     "pan": "AMFTM9820G"
+    },
+    "meta": {
+     "created": "2023-07-21",
+     "modified": "2023-07-21",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Sunrise Valley Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "349/7C",
+     "area_sqm": 10800,
+     "issue_date": "2024-02-22",
+     "lease_years": 99
+    },
+    "meta": {
+     "created": "2024-02-22",
+     "modified": "2024-02-22",
+     "software": "Adobe Scan"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Sunrise Valley Education Trust",
+     "approved_built_up_sqm": 3600,
+     "approval_date": "2024-11-25",
+     "authority": "Nagpur Development Authority"
+    },
+    "meta": {
+     "created": "2024-11-25",
+     "modified": "2024-11-25",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Sunrise Valley Education Trust",
+     "built_up_sqm": 3600,
+     "issue_date": "2026-06-12",
+     "valid_until": "2027-06-12",
+     "authority": "Municipal Fire Wing"
+    },
+    "meta": {
+     "created": "2026-06-12",
+     "modified": "2026-06-12",
+     "software": "Epson Scan 2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Sunrise Valley Education Trust",
+     "declared_intake": 360,
+     "date": "2026-09-15"
+    },
+    "meta": {
+     "created": "2026-09-15",
+     "modified": "2026-09-15",
+     "software": "Adobe Scan"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 18,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-09-24",
+     "modified": "2026-09-24",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Sunrise Valley Education Trust",
+     "fd_lakh": 121.4,
+     "as_of": "2026-10-01"
+    },
+    "meta": {
+     "created": "2026-10-01",
+     "modified": "2026-10-01",
+     "software": "Scanner Pro 4.2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2609",
+  "institution": "Meridian College of Engineering",
+  "city": "Vijayawada",
+  "state": "Andhra Pradesh",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-09-07",
+  "proposedIntake": 120,
+  "trust": "Meridian Education Trust",
+  "owner": "Karthik Singh",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Meridian Education Trust",
+     "registration_no": "TR/AN/6154/2023",
+     "registration_date": "2023-03-02",
+     "pan": "FJJTC1227P"
+    },
+    "meta": {
+     "created": "2023-03-02",
+     "modified": "2023-03-02",
+     "software": "Epson Scan 2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Meridian Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "868/2B",
+     "area_sqm": 4572,
+     "issue_date": "2024-01-05",
+     "lease_years": 15
+    },
+    "meta": {
+     "created": "2024-01-05",
+     "modified": "2024-01-05",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Meridian Education Trust",
+     "approved_built_up_sqm": 1524,
+     "approval_date": "2024-08-17",
+     "authority": "Vijayawada Development Authority"
+    },
+    "meta": {
+     "created": "2024-08-17",
+     "modified": "2024-08-17",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Meridian Education Trust",
+     "built_up_sqm": 1524,
+     "issue_date": "2026-01-29",
+     "valid_until": "2027-01-29",
+     "authority": "State Fire Services Dept."
+    },
+    "meta": {
+     "created": "2026-01-29",
+     "modified": "2026-01-29",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Meridian Education Trust",
+     "declared_intake": 120,
+     "date": "2026-08-27"
+    },
+    "meta": {
+     "created": "2026-08-27",
+     "modified": "2026-08-27",
+     "software": "Epson Scan 2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 3,
+     "proposed_intake": 120
+    },
+    "meta": {
+     "created": "2026-08-28",
+     "modified": "2026-08-28",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Meridian Education Trust",
+     "fd_lakh": 63.0,
+     "as_of": "2026-08-19"
+    },
+    "meta": {
+     "created": "2026-08-19",
+     "modified": "2026-08-19",
+     "software": "Epson Scan 2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2610",
+  "institution": "Crestwood Institute of Management",
+  "city": "Mysuru",
+  "state": "Karnataka",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-10-09",
+  "proposedIntake": 360,
+  "trust": "Crestwood Education Trust",
+  "owner": "Deepak Nair",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Crestwood Education Trust",
+     "registration_no": "TR/KA/7130/2022",
+     "registration_date": "2022-11-02",
+     "pan": "SXJTN5782M"
+    },
+    "meta": {
+     "created": "2022-11-02",
+     "modified": "2022-11-02",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Crestwood Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "910/2C",
+     "area_sqm": 10074,
+     "issue_date": "2024-04-18",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2024-04-18",
+     "modified": "2024-04-18",
+     "software": "Epson Scan 2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Crestwood Education Trust",
+     "approved_built_up_sqm": 3358,
+     "approval_date": "2024-09-05",
+     "authority": "Mysuru Development Authority"
+    },
+    "meta": {
+     "created": "2024-09-05",
+     "modified": "2024-09-05",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Crestwood Education Trust",
+     "built_up_sqm": 3358,
+     "issue_date": "2026-03-08",
+     "valid_until": "2027-03-08",
+     "authority": "District Fire Authority"
+    },
+    "meta": {
+     "created": "2026-03-08",
+     "modified": "2026-03-08",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": false,
+    "source": "not_applicable",
+    "fields": {},
+    "meta": null
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 21,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-09-29",
+     "modified": "2026-09-29",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": false,
+    "source": "verified",
+    "fields": {},
+    "meta": null
+   }
+  }
+ },
+ {
+  "id": "APP-2611",
+  "institution": "Bluehaven School of Engineering",
+  "city": "Patna",
+  "state": "Bihar",
+  "programType": "New Institution",
+  "submittedOn": "2026-09-13",
+  "proposedIntake": 360,
+  "trust": "Bluehaven Education Trust",
+  "owner": "Rahul Reddy",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Bluehaven Education Trust",
+     "registration_no": "TR/BI/7959/2023",
+     "registration_date": "2023-05-15",
+     "pan": "UEMTP7293N"
+    },
+    "meta": {
+     "created": "2023-05-15",
+     "modified": "2023-05-15",
+     "software": "Adobe Scan"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Bluehaven Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "373/5A",
+     "area_sqm": 10131,
+     "issue_date": "2024-01-05",
+     "lease_years": 99
+    },
+    "meta": {
+     "created": "2024-01-05",
+     "modified": "2024-01-05",
+     "software": "Adobe Scan"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Bluehaven Education Trust",
+     "approved_built_up_sqm": 3377,
+     "approval_date": "2024-04-15",
+     "authority": "Patna Development Authority"
+    },
+    "meta": {
+     "created": "2024-04-15",
+     "modified": "2024-04-15",
+     "software": "Adobe Scan"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Bluehaven Education Trust",
+     "built_up_sqm": 3377,
+     "issue_date": "2026-02-07",
+     "valid_until": "2027-02-07",
+     "authority": "State Fire Services Dept."
+    },
+    "meta": {
+     "created": "2026-02-07",
+     "modified": "2026-02-07",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Bluehaven Education Trust",
+     "declared_intake": 360,
+     "date": "2026-09-01"
+    },
+    "meta": {
+     "created": "2026-09-01",
+     "modified": "2026-09-01",
+     "software": "CamScanner"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 18,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-09-03",
+     "modified": "2026-09-03",
+     "software": "Epson Scan 2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Bluehaven Education Trust",
+     "fd_lakh": 121.9,
+     "as_of": "2026-09-07"
+    },
+    "meta": {
+     "created": "2026-09-07",
+     "modified": "2026-09-07",
+     "software": "Adobe Scan"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2612",
+  "institution": "Oakridge Institute of Technology",
+  "city": "Bhubaneswar",
+  "state": "Odisha",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-09-18",
+  "proposedIntake": 360,
+  "trust": "Oakridge Education Trust",
+  "owner": "Anil Nair",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Oakridge Education Trust",
+     "registration_no": "TR/OD/6582/2022",
+     "registration_date": "2022-07-08",
+     "pan": "WSZTL1921X"
+    },
+    "meta": {
+     "created": "2022-07-08",
+     "modified": "2022-07-08",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Oakridge Education Trust (Regd.)",
+     "deed_type": "Sale Deed",
+     "survey_no": "897/9B",
+     "area_sqm": 11430,
+     "issue_date": "2023-08-02",
+     "lease_years": 33
+    },
+    "meta": {
+     "created": "2023-08-02",
+     "modified": "2023-08-02",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "unavailable",
+    "fields": {
+     "applicant_name": "Oakridge Education Trust",
+     "approved_built_up_sqm": 3810,
+     "approval_date": "2023-12-20",
+     "authority": "Bhubaneswar Development Authority"
+    },
+    "meta": {
+     "created": "2023-12-20",
+     "modified": "2023-12-20",
+     "software": "Adobe Scan"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Oakridge Education Trust",
+     "built_up_sqm": 3810,
+     "issue_date": "2026-06-15",
+     "valid_until": "2027-06-15",
+     "authority": "Municipal Fire Wing"
+    },
+    "meta": {
+     "created": "2026-06-15",
+     "modified": "2026-06-15",
+     "software": "Adobe Scan"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Oakridge Education Trust",
+     "declared_intake": 360,
+     "date": "2026-09-08"
+    },
+    "meta": {
+     "created": "2026-09-08",
+     "modified": "2026-09-08",
+     "software": "CamScanner"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 22,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-09-08",
+     "modified": "2026-09-08",
+     "software": "Epson Scan 2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Oakridge Education Trust",
+     "fd_lakh": 135.8,
+     "as_of": "2026-09-10"
+    },
+    "meta": {
+     "created": "2026-09-10",
+     "modified": "2026-09-10",
+     "software": "Adobe Scan"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2613",
+  "institution": "Pinnacle School of Engineering",
+  "city": "Guwahati",
+  "state": "Assam",
+  "programType": "New Institution",
+  "submittedOn": "2026-09-22",
+  "proposedIntake": 180,
+  "trust": "Pinnacle Education Trust",
+  "owner": "Neha Patel",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Pinnacle Education Trust",
+     "registration_no": "TR/AS/7726/2021",
+     "registration_date": "2021-11-20",
+     "pan": "ERATM9572Y"
+    },
+    "meta": {
+     "created": "2021-11-20",
+     "modified": "2021-11-20",
+     "software": "CamScanner"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Pinnacle Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "203/3C",
+     "area_sqm": 6249,
+     "issue_date": "2023-07-03",
+     "lease_years": 99
+    },
+    "meta": {
+     "created": "2023-07-03",
+     "modified": "2023-07-03",
+     "software": "Adobe Scan"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Pinnacle Education Trust",
+     "approved_built_up_sqm": 1296,
+     "approval_date": "2024-02-11",
+     "authority": "Guwahati Development Authority"
+    },
+    "meta": {
+     "created": "2024-02-11",
+     "modified": "2024-02-11",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Pinnacle Education Trust",
+     "built_up_sqm": 1296,
+     "issue_date": "2026-03-29",
+     "valid_until": "2027-03-29",
+     "authority": "District Fire Authority"
+    },
+    "meta": {
+     "created": "2026-03-29",
+     "modified": "2026-03-29",
+     "software": "Epson Scan 2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Pinnacle Education Trust",
+     "declared_intake": 180,
+     "date": "2026-08-13"
+    },
+    "meta": {
+     "created": "2026-08-13",
+     "modified": "2026-08-13",
+     "software": "Epson Scan 2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 15,
+     "proposed_intake": 180
+    },
+    "meta": {
+     "created": "2026-09-12",
+     "modified": "2026-09-12",
+     "software": "Adobe Scan"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Sri Pinnacle Charitable Trust",
+     "fd_lakh": 115.8,
+     "as_of": "2026-09-04"
+    },
+    "meta": {
+     "created": "2026-09-04",
+     "modified": "2026-09-04",
+     "software": "Scanner Pro 4.2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2614",
+  "institution": "Harborview Polytechnic College",
+  "city": "Raipur",
+  "state": "Chhattisgarh",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-09-14",
+  "proposedIntake": 360,
+  "trust": "Harborview Education Trust",
+  "owner": "Rahul Reddy",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Harborview Education Trust",
+     "registration_no": "TR/CH/7376/2023",
+     "registration_date": "2023-05-09",
+     "pan": "LTJTK1681Z"
+    },
+    "meta": {
+     "created": "2023-05-09",
+     "modified": "2023-05-09",
+     "software": "Adobe Scan"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Harborview Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "118/2A",
+     "area_sqm": 10902,
+     "issue_date": "2023-10-21",
+     "lease_years": 33
+    },
+    "meta": {
+     "created": "2023-10-21",
+     "modified": "2026-09-12",
+     "software": "Canva"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Harborview Education Trust",
+     "approved_built_up_sqm": 3634,
+     "approval_date": "2024-03-29",
+     "authority": "Raipur Development Authority"
+    },
+    "meta": {
+     "created": "2024-03-29",
+     "modified": "2024-03-29",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Harborview Education Trust",
+     "built_up_sqm": 3634,
+     "issue_date": "2026-04-10",
+     "valid_until": "2026-07-30",
+     "authority": "District Fire Authority"
+    },
+    "meta": {
+     "created": "2026-04-10",
+     "modified": "2026-04-10",
+     "software": "Adobe Scan"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Harborview Education Trust",
+     "declared_intake": 360,
+     "date": "2026-08-06"
+    },
+    "meta": {
+     "created": "2026-08-06",
+     "modified": "2026-08-06",
+     "software": "CamScanner"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 24,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-09-04",
+     "modified": "2026-09-04",
+     "software": "Adobe Scan"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Harborview Education Trust",
+     "fd_lakh": 138.0,
+     "as_of": "2026-08-26"
+    },
+    "meta": {
+     "created": "2026-08-26",
+     "modified": "2026-08-26",
+     "software": "Scanner Pro 4.2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2615",
+  "institution": "Stonegate Institute of Management",
+  "city": "Dehradun",
+  "state": "Uttarakhand",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-09-28",
+  "proposedIntake": 240,
+  "trust": "Stonegate Education Trust",
+  "owner": "Rahul Rao",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Stonegate Education Trust",
+     "registration_no": "TR/UT/1032/2022",
+     "registration_date": "2022-03-28",
+     "pan": "MCMTK4542T"
+    },
+    "meta": {
+     "created": "2022-03-28",
+     "modified": "2022-03-28",
+     "software": "Adobe Scan"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Stonegate Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "919/2C",
+     "area_sqm": 7242,
+     "issue_date": "2024-01-05",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2024-01-05",
+     "modified": "2024-01-05",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "unavailable",
+    "fields": {
+     "applicant_name": "Stonegate Education Trust",
+     "approved_built_up_sqm": 2414,
+     "approval_date": "2024-03-12",
+     "authority": "Dehradun Development Authority"
+    },
+    "meta": {
+     "created": "2024-03-12",
+     "modified": "2024-03-12",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Stonegate Education Trust",
+     "built_up_sqm": 2414,
+     "issue_date": "2026-06-15",
+     "valid_until": "2027-06-15",
+     "authority": "District Fire Authority"
+    },
+    "meta": {
+     "created": "2026-06-15",
+     "modified": "2026-06-15",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Stonegate Education Trust",
+     "declared_intake": 240,
+     "date": "2026-09-03"
+    },
+    "meta": {
+     "created": "2026-09-03",
+     "modified": "2026-09-03",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 13,
+     "proposed_intake": 240
+    },
+    "meta": {
+     "created": "2026-09-18",
+     "modified": "2026-09-18",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Stonegate Education Trust",
+     "fd_lakh": 77.3,
+     "as_of": "2026-09-08"
+    },
+    "meta": {
+     "created": "2026-09-08",
+     "modified": "2026-09-08",
+     "software": "Epson Scan 2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2616",
+  "institution": "Maplewood Institute of Technology",
+  "city": "Kochi",
+  "state": "Kerala",
+  "programType": "New Institution",
+  "submittedOn": "2026-09-23",
+  "proposedIntake": 300,
+  "trust": "Maplewood Education Trust",
+  "owner": "Lakshmi Singh",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Maplewood Education Trust",
+     "registration_no": "TR/KE/2439/2021",
+     "registration_date": "2021-04-14",
+     "pan": "RKJTX4703F"
+    },
+    "meta": {
+     "created": "2021-04-14",
+     "modified": "2021-04-14",
+     "software": "Epson Scan 2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Maplewood Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "364/2A",
+     "area_sqm": 9870,
+     "issue_date": "2023-03-03",
+     "lease_years": 99
+    },
+    "meta": {
+     "created": "2023-03-03",
+     "modified": "2023-03-03",
+     "software": "Epson Scan 2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Maplewood Education Trust",
+     "approved_built_up_sqm": 3290,
+     "approval_date": "2023-09-11",
+     "authority": "Kochi Development Authority"
+    },
+    "meta": {
+     "created": "2023-09-11",
+     "modified": "2023-09-11",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Maplewood Education Trust",
+     "built_up_sqm": 3290,
+     "issue_date": "2026-05-23",
+     "valid_until": "2027-05-23",
+     "authority": "Municipal Fire Wing"
+    },
+    "meta": {
+     "created": "2026-05-23",
+     "modified": "2026-05-23",
+     "software": "CamScanner"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Maplewood Education Trust",
+     "declared_intake": 300,
+     "date": "2026-08-27"
+    },
+    "meta": {
+     "created": "2026-08-27",
+     "modified": "2026-08-27",
+     "software": "CamScanner"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 21,
+     "proposed_intake": 300
+    },
+    "meta": {
+     "created": "2026-09-13",
+     "modified": "2026-09-13",
+     "software": "Epson Scan 2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Maplewood Education Trust",
+     "fd_lakh": 70.0,
+     "as_of": "2026-08-30"
+    },
+    "meta": {
+     "created": "2026-08-30",
+     "modified": "2026-08-30",
+     "software": "CamScanner"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2617",
+  "institution": "Ashford School of Engineering",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-10-19",
+  "proposedIntake": 240,
+  "trust": "Ashford Education Trust",
+  "owner": "Rahul Menon",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Ashford Education Trust",
+     "registration_no": "TR/TE/6243/2022",
+     "registration_date": "2022-10-08",
+     "pan": "JQJTE9931W"
+    },
+    "meta": {
+     "created": "2022-10-08",
+     "modified": "2022-10-08",
+     "software": "Epson Scan 2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Ashford Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "118/2A",
+     "area_sqm": 7977,
+     "issue_date": "2024-03-01",
+     "lease_years": 33
+    },
+    "meta": {
+     "created": "2024-03-01",
+     "modified": "2024-03-01",
+     "software": "Adobe Scan"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Ashford Education Trust",
+     "approved_built_up_sqm": 2659,
+     "approval_date": "2024-06-23",
+     "authority": "Hyderabad Development Authority"
+    },
+    "meta": {
+     "created": "2024-06-23",
+     "modified": "2024-06-23",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Ashford Education Trust",
+     "built_up_sqm": 2659,
+     "issue_date": "2026-07-12",
+     "valid_until": "2027-07-12",
+     "authority": "District Fire Authority"
+    },
+    "meta": {
+     "created": "2026-07-12",
+     "modified": "2026-07-12",
+     "software": "Epson Scan 2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Ashford Education Trust",
+     "declared_intake": 240,
+     "date": "2026-09-16"
+    },
+    "meta": {
+     "created": "2026-09-16",
+     "modified": "2026-09-16",
+     "software": "CamScanner"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 10,
+     "proposed_intake": 240
+    },
+    "meta": {
+     "created": "2026-10-09",
+     "modified": "2026-10-09",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Ashford Education Trust",
+     "fd_lakh": 89.0,
+     "as_of": "2026-09-28"
+    },
+    "meta": {
+     "created": "2026-09-28",
+     "modified": "2026-09-28",
+     "software": "Epson Scan 2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2618",
+  "institution": "Brightwater Institute of Management",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-09-22",
+  "proposedIntake": 120,
+  "trust": "Brightwater Education Trust",
+  "owner": "Fatima Rao",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Brightwater Education Trust",
+     "registration_no": "TR/MA/3833/2022",
+     "registration_date": "2022-06-01",
+     "pan": "AJTTY5131E"
+    },
+    "meta": {
+     "created": "2022-06-01",
+     "modified": "2022-06-01",
+     "software": "Epson Scan 2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Brightwater Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "956/7C",
+     "area_sqm": 4998,
+     "issue_date": "2024-04-10",
+     "lease_years": 33
+    },
+    "meta": {
+     "created": "2024-04-10",
+     "modified": "2024-04-10",
+     "software": "CamScanner"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Brightwater Education Trust",
+     "approved_built_up_sqm": 1666,
+     "approval_date": "2024-10-19",
+     "authority": "Pune Development Authority"
+    },
+    "meta": {
+     "created": "2024-10-19",
+     "modified": "2024-10-19",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Brightwater Education Trust",
+     "built_up_sqm": 1666,
+     "issue_date": "2026-06-01",
+     "valid_until": "2027-06-01",
+     "authority": "State Fire Services Dept."
+    },
+    "meta": {
+     "created": "2026-06-01",
+     "modified": "2026-06-01",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Brightwater Education Trust",
+     "declared_intake": 120,
+     "date": "2026-08-21"
+    },
+    "meta": {
+     "created": "2026-08-21",
+     "modified": "2026-08-21",
+     "software": "Adobe Scan"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 11,
+     "proposed_intake": 120
+    },
+    "meta": {
+     "created": "2026-09-12",
+     "modified": "2026-09-12",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Brightwater Education Trust",
+     "fd_lakh": 31.5,
+     "as_of": "2026-09-08"
+    },
+    "meta": {
+     "created": "2026-09-08",
+     "modified": "2026-09-08",
+     "software": "Epson Scan 2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2619",
+  "institution": "Cedar Point Institute of Technology",
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-10-20",
+  "proposedIntake": 180,
+  "trust": "Cedar Point Education Trust",
+  "owner": "Sunita Reddy",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Cedar Point Education Trust",
+     "registration_no": "TR/RA/3553/2022",
+     "registration_date": "2022-08-14",
+     "pan": "LHQTG3798Y"
+    },
+    "meta": {
+     "created": "2022-08-14",
+     "modified": "2022-08-14",
+     "software": "Epson Scan 2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Cedar Point Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "798/1A",
+     "area_sqm": 6504,
+     "issue_date": "2023-09-21",
+     "lease_years": 99
+    },
+    "meta": {
+     "created": "2023-09-21",
+     "modified": "2023-09-21",
+     "software": "CamScanner"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "unavailable",
+    "fields": {
+     "applicant_name": "Cedar Point Education Trust",
+     "approved_built_up_sqm": 2168,
+     "approval_date": "2024-04-27",
+     "authority": "Jaipur Development Authority"
+    },
+    "meta": {
+     "created": "2024-04-27",
+     "modified": "2024-04-27",
+     "software": "Adobe Scan"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Cedar Point Education Trust",
+     "built_up_sqm": 2168,
+     "issue_date": "2026-03-13",
+     "valid_until": "2027-03-13",
+     "authority": "State Fire Services Dept."
+    },
+    "meta": {
+     "created": "2026-03-13",
+     "modified": "2026-03-13",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Cedar Point Education Trust",
+     "declared_intake": 180,
+     "date": "2026-09-22"
+    },
+    "meta": {
+     "created": "2026-09-22",
+     "modified": "2026-09-22",
+     "software": "Epson Scan 2"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 13,
+     "proposed_intake": 180
+    },
+    "meta": {
+     "created": "2026-10-10",
+     "modified": "2026-10-10",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Cedar Point Education Trust",
+     "fd_lakh": 58.8,
+     "as_of": "2026-10-15"
+    },
+    "meta": {
+     "created": "2026-10-15",
+     "modified": "2026-10-15",
+     "software": "Adobe Scan"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2620",
+  "institution": "Falcon Ridge School of Engineering",
+  "city": "Lucknow",
+  "state": "Uttar Pradesh",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-09-22",
+  "proposedIntake": 240,
+  "trust": "Falcon Ridge Education Trust",
+  "owner": "Lakshmi Iyer",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Falcon Ridge Education Trust",
+     "registration_no": "TR/UT/5159/2022",
+     "registration_date": "2022-03-06",
+     "pan": "QGMTJ9393Z"
+    },
+    "meta": {
+     "created": "2022-03-06",
+     "modified": "2022-03-06",
+     "software": "CamScanner"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Falcon Ridge Education Trust",
+     "deed_type": "Lease Deed",
+     "survey_no": "33/8B",
+     "area_sqm": 7695,
+     "issue_date": "2023-11-07",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2023-11-07",
+     "modified": "2023-11-07",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Falcon Ridge Education Trust",
+     "approved_built_up_sqm": 2565,
+     "approval_date": "2024-03-11",
+     "authority": "Lucknow Development Authority"
+    },
+    "meta": {
+     "created": "2024-03-11",
+     "modified": "2024-03-11",
+     "software": "CamScanner"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Falcon Ridge Education Trust",
+     "built_up_sqm": 2565,
+     "issue_date": "2026-03-21",
+     "valid_until": "2027-03-21",
+     "authority": "State Fire Services Dept."
+    },
+    "meta": {
+     "created": "2026-03-21",
+     "modified": "2026-03-21",
+     "software": "Epson Scan 2"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Falcon Ridge Education Trust",
+     "declared_intake": 240,
+     "date": "2026-08-28"
+    },
+    "meta": {
+     "created": "2026-08-28",
+     "modified": "2026-08-28",
+     "software": "CamScanner"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 12,
+     "proposed_intake": 240
+    },
+    "meta": {
+     "created": "2026-09-12",
+     "modified": "2026-09-12",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Falcon Ridge Education Trust",
+     "fd_lakh": 127.5,
+     "as_of": "2026-09-11"
+    },
+    "meta": {
+     "created": "2026-09-11",
+     "modified": "2026-09-11",
+     "software": "Epson Scan 2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2621",
+  "institution": "Granite Hill School of Engineering",
+  "city": "Coimbatore",
+  "state": "Tamil Nadu",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-10-13",
+  "proposedIntake": 240,
+  "trust": "Granite Hill Education Trust",
+  "owner": "Vikram Reddy",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Granite Hill Education Trust",
+     "registration_no": "TR/TA/2742/2022",
+     "registration_date": "2022-09-16",
+     "pan": "VGATQ4946G"
+    },
+    "meta": {
+     "created": "2022-09-16",
+     "modified": "2022-09-16",
+     "software": "CamScanner"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Granite Hill Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "900/7C",
+     "area_sqm": 7824,
+     "issue_date": "2023-04-03",
+     "lease_years": 99
+    },
+    "meta": {
+     "created": "2023-04-03",
+     "modified": "2023-04-03",
+     "software": "Adobe Scan"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Granite Hill Education Trust",
+     "approved_built_up_sqm": 2608,
+     "approval_date": "2023-10-23",
+     "authority": "Coimbatore Development Authority"
+    },
+    "meta": {
+     "created": "2023-10-23",
+     "modified": "2023-10-23",
+     "software": "Epson Scan 2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Granite Hill Education Trust",
+     "built_up_sqm": 2608,
+     "issue_date": "2026-01-05",
+     "valid_until": "2027-01-05",
+     "authority": "Municipal Fire Wing"
+    },
+    "meta": {
+     "created": "2026-01-05",
+     "modified": "2026-01-05",
+     "software": "CamScanner"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Granite Hill Education Trust",
+     "declared_intake": 240,
+     "date": "2026-09-27"
+    },
+    "meta": {
+     "created": "2026-09-27",
+     "modified": "2026-09-27",
+     "software": "Adobe Scan"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 18,
+     "proposed_intake": 240
+    },
+    "meta": {
+     "created": "2026-10-03",
+     "modified": "2026-10-03",
+     "software": "Epson Scan 2"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Granite Hill Education Trust",
+     "fd_lakh": 85.9,
+     "as_of": "2026-10-02"
+    },
+    "meta": {
+     "created": "2026-10-02",
+     "modified": "2026-10-02",
+     "software": "CamScanner"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2622",
+  "institution": "Ivory Park Polytechnic College",
+  "city": "Bhopal",
+  "state": "Madhya Pradesh",
+  "programType": "Extension of Approval",
+  "submittedOn": "2026-10-17",
+  "proposedIntake": 360,
+  "trust": "Ivory Park Education Trust",
+  "owner": "Neha Rao",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Ivory Park Education Trust",
+     "registration_no": "TR/MA/5904/2021",
+     "registration_date": "2021-05-04",
+     "pan": "FEJTT6843E"
+    },
+    "meta": {
+     "created": "2021-05-04",
+     "modified": "2021-05-04",
+     "software": "CamScanner"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Ivory Park Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "832/1B",
+     "area_sqm": 10539,
+     "issue_date": "2023-03-19",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2023-03-19",
+     "modified": "2023-03-19",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Ivory Park Education Trust",
+     "approved_built_up_sqm": 3513,
+     "approval_date": "2023-11-14",
+     "authority": "Bhopal Development Authority"
+    },
+    "meta": {
+     "created": "2023-11-14",
+     "modified": "2023-11-14",
+     "software": "Adobe Scan"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Ivory Park Education Trust",
+     "built_up_sqm": 3513,
+     "issue_date": "2026-07-10",
+     "valid_until": "2027-07-10",
+     "authority": "Municipal Fire Wing"
+    },
+    "meta": {
+     "created": "2026-07-10",
+     "modified": "2026-10-15",
+     "software": "Canva"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Ivory Park Education Trust",
+     "declared_intake": 360,
+     "date": "2026-10-03"
+    },
+    "meta": {
+     "created": "2026-10-03",
+     "modified": "2026-10-03",
+     "software": "CamScanner"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 24,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-10-07",
+     "modified": "2026-10-07",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Ivory Park Education Trust",
+     "fd_lakh": 132.6,
+     "as_of": "2026-10-10"
+    },
+    "meta": {
+     "created": "2026-10-10",
+     "modified": "2026-10-10",
+     "software": "Scanner Pro 4.2"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2623",
+  "institution": "Juniper College of Engineering",
+  "city": "Indore",
+  "state": "Madhya Pradesh",
+  "programType": "New Institution",
+  "submittedOn": "2026-10-03",
+  "proposedIntake": 240,
+  "trust": "Juniper Education Trust",
+  "owner": "Vikram Rao",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Juniper Education Trust",
+     "registration_no": "TR/MA/2550/2022",
+     "registration_date": "2022-03-09",
+     "pan": "MUYTY5214L"
+    },
+    "meta": {
+     "created": "2022-03-09",
+     "modified": "2022-03-09",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Juniper Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "493/1A",
+     "area_sqm": 7002,
+     "issue_date": "2023-08-27",
+     "lease_years": 99
+    },
+    "meta": {
+     "created": "2023-08-27",
+     "modified": "2023-08-27",
+     "software": "Adobe Scan"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "unavailable",
+    "fields": {
+     "applicant_name": "Juniper Education Trust",
+     "approved_built_up_sqm": 2334,
+     "approval_date": "2023-12-04",
+     "authority": "Indore Development Authority"
+    },
+    "meta": {
+     "created": "2023-12-04",
+     "modified": "2023-12-04",
+     "software": "Scanner Pro 4.2"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Juniper Education Trust",
+     "built_up_sqm": 2334,
+     "issue_date": "2025-12-17",
+     "valid_until": "2026-12-17",
+     "authority": "District Fire Authority"
+    },
+    "meta": {
+     "created": "2025-12-17",
+     "modified": "2025-12-17",
+     "software": "CamScanner"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Juniper Education Trust",
+     "declared_intake": 240,
+     "date": "2026-09-08"
+    },
+    "meta": {
+     "created": "2026-09-08",
+     "modified": "2026-09-08",
+     "software": "Adobe Scan"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 17,
+     "proposed_intake": 240
+    },
+    "meta": {
+     "created": "2026-09-23",
+     "modified": "2026-09-23",
+     "software": "Adobe Scan"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Juniper Education Trust",
+     "fd_lakh": 75.5,
+     "as_of": "2026-09-26"
+    },
+    "meta": {
+     "created": "2026-09-26",
+     "modified": "2026-09-26",
+     "software": "CamScanner"
+    }
+   }
+  }
+ },
+ {
+  "id": "APP-2624",
+  "institution": "Kingsfield School of Engineering",
+  "city": "Nagpur",
+  "state": "Maharashtra",
+  "programType": "Increase in Intake",
+  "submittedOn": "2026-09-11",
+  "proposedIntake": 360,
+  "trust": "Kingsfield Education Trust",
+  "owner": "Karthik Nair",
+  "documents": {
+   "society_reg": {
+    "label": "Trust / Society Registration",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "trust_name": "Kingsfield Education Trust",
+     "registration_no": "TR/MA/8893/2022",
+     "registration_date": "2022-07-01",
+     "pan": "HAVTC2814K"
+    },
+    "meta": {
+     "created": "2022-07-01",
+     "modified": "2022-07-01",
+     "software": "Epson Scan 2"
+    }
+   },
+   "land": {
+    "label": "Land Document",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "holder_name": "Kingsfield Education Trust",
+     "deed_type": "Sale Deed",
+     "survey_no": "767/8C",
+     "area_sqm": 11256,
+     "issue_date": "2024-01-05",
+     "lease_years": 30
+    },
+    "meta": {
+     "created": "2024-01-05",
+     "modified": "2024-01-05",
+     "software": "Adobe Scan"
+    }
+   },
+   "building_plan": {
+    "label": "Approved Building Plan",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Kingsfield Education Trust",
+     "approved_built_up_sqm": 3752,
+     "approval_date": "2024-06-30",
+     "authority": "Nagpur Development Authority"
+    },
+    "meta": {
+     "created": "2024-06-30",
+     "modified": "2024-06-30",
+     "software": "Adobe Scan"
+    }
+   },
+   "fire_noc": {
+    "label": "Fire Safety NOC",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "applicant_name": "Kingsfield Education Trust",
+     "built_up_sqm": 3752,
+     "issue_date": "2025-12-06",
+     "valid_until": "2026-12-06",
+     "authority": "Municipal Fire Wing"
+    },
+    "meta": {
+     "created": "2025-12-06",
+     "modified": "2025-12-06",
+     "software": "CamScanner"
+    }
+   },
+   "affidavit": {
+    "label": "Notarised Affidavit",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "deponent_trust": "Kingsfield Education Trust",
+     "declared_intake": 360,
+     "date": "2026-08-14"
+    },
+    "meta": {
+     "created": "2026-08-14",
+     "modified": "2026-08-14",
+     "software": "Adobe Scan"
+    }
+   },
+   "faculty": {
+    "label": "Faculty Roster",
+    "present": true,
+    "source": "not_applicable",
+    "fields": {
+     "faculty_count": 19,
+     "proposed_intake": 360
+    },
+    "meta": {
+     "created": "2026-09-01",
+     "modified": "2026-09-01",
+     "software": "CamScanner"
+    }
+   },
+   "bank": {
+    "label": "Bank / FD Statement",
+    "present": true,
+    "source": "verified",
+    "fields": {
+     "account_holder": "Kingsfield Education Trust",
+     "fd_lakh": 57.6,
+     "as_of": "2026-08-17"
+    },
+    "meta": {
+     "created": "2026-08-17",
+     "modified": "2026-08-17",
+     "software": "Adobe Scan"
+    }
+   }
+  }
+ }
+]
